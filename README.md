@@ -1,0 +1,2 @@
+# Seminar
+Pandas, NumPy, Matplotlib
